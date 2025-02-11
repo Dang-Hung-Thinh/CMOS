@@ -18,5 +18,9 @@
 * Delay (transition time)
 * Average power
 * Connecting with CL, RL
+- Schematic
+
+![image](https://github.com/user-attachments/assets/52aa3a1e-0bae-4ddb-99b5-9715774749cf)
+
 * Connecting three NOT gates in series
 ###### Other logic gates will also be presented similarly.
