@@ -8,3 +8,4 @@
 * Average power
 * Connecting with CL, RL
 * Connecting three NOT gates in series
+###### Other logic gates will also be presented similarly.
