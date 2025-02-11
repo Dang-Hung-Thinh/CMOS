@@ -26,4 +26,5 @@ Schematic
 ![image](https://github.com/user-attachments/assets/52aa3a1e-0bae-4ddb-99b5-9715774749cf)
 
 * Connecting three NOT gates in series
+![image](https://github.com/user-attachments/assets/0b0f603a-9319-4ecf-8fca-08dcb2e6e597)
 ###### Other logic gates will also be presented similarly.
