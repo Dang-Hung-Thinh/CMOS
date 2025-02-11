@@ -12,6 +12,8 @@
 ![image](https://github.com/user-attachments/assets/6b9dd0d8-905a-4bab-a892-f69c271f3f76)
 - When the input A = 0, the PMOS transistor turns on, and the NMOS transistor turns off → pulls the output to the supply voltage → Output Y = 1.
 * Schematic
+
+![image](https://github.com/user-attachments/assets/40ca4673-66d9-4254-80ce-de9841401f3e)
 * Symbol
 * Delay (transition time)
 * Average power
