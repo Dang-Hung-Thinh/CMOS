@@ -8,6 +8,7 @@
   
 ![image](https://github.com/user-attachments/assets/86af1e74-678d-40bc-9ec9-142c406a3bf6)
 - When the input A = 1, the PMOS transistor turns off, and the NMOS transistor turns on → pulls the output to ground → Output Y = 0.
+  
 ![image](https://github.com/user-attachments/assets/6b9dd0d8-905a-4bab-a892-f69c271f3f76)
 - When the input A = 0, the PMOS transistor turns on, and the NMOS transistor turns off → pulls the output to the supply voltage → Output Y = 1.
 * Schematic
